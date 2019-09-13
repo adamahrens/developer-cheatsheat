@@ -1,2 +1,2 @@
-# developer-cheatsheat
+# developer-cheatsheet
 Developer Cheatsheet
