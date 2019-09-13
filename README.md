@@ -62,3 +62,7 @@ Lets say we have this as a folder structure
   Sometimes you just want to move, delete, copy, paste a file or folder in the Mac Finder with your GUI.
   
   To do that from a location in Terminal just type `open .`
+  
+  ## Open Current Directory in Visual Code
+  
+  When in a folder that has a list of files you want to edit, type `code .` which will open that directory in Visual Studio Code Editor
