@@ -66,3 +66,31 @@ Lets say we have this as a folder structure
   ## Open Current Directory in Visual Code
   
   When in a folder that has a list of files you want to edit, type `code .` which will open that directory in Visual Studio Code Editor
+  
+  # Python
+  
+  ## Python Version
+  Run `python --version` to check what your current version is. It'll return something like
+  
+  > Python 3.7.1
+  
+  ## Running a Python file
+  
+  To run a python file simply type `python name_of_file.py`
+  
+  Let say we have this structure
+  
+ - Documents
+  - python-challenge
+    - PyBank
+      - main.py
+      - other.py
+    - PyPoll
+    
+   If we want to run `other.py` what you could do is
+    
+   - `cd ~/Documents/python-challenge/PyBank`
+   - `python other.py`
+    
+   Or with one single command
+   - `python ~/Documents/python-chllanege/PyBank/other.py`
